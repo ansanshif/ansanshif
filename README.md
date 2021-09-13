@@ -1,8 +1,3 @@
-- src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Ansanshif+Profile."
-            alt="Typing SVG"
-- 
-- 
-- 
 - 👋 Hi, I’m @ansanshif
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
